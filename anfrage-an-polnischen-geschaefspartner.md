@@ -12,6 +12,7 @@ Wir brauchen mehr Informationen, wie der Markt funktioniert.&#x20;
 
 Wie Personal gebucht, koordiniert, gemanagt und abgerechnet wird. Vor allem muss ich den Informationsfluss verstehen. Diesen werde ich mir als Datenbankschema und Flow Diagramm skizzieren.
 
+GitHub Test
 
 
 
